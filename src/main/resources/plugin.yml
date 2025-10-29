@@ -1,0 +1,6 @@
+name: Chunk-tps-Saver
+version: '0.1'
+main: de.thelion.chunkTpsSaver.ChunkTpsSaver
+api-version: '1.21'
+authors: [ thelion ]
+description: test mod 
