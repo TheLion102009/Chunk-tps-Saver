@@ -56,4 +56,5 @@ If you want additional features (restore improvements, whitelist changes, async 
 
 License
 -------
-MIT (or specify another license if you prefer)
+MIT 
+
